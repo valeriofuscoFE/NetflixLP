@@ -366,19 +366,22 @@ p{
 		
 		box-shadow:inset 80px 80px 250px #000000,inset -80px -80px 250px #000000;
 	}
-	#tab-1-content .tab-1-content-inner{
-		grid-template-columns:1fr;
-		text-align:center;	
-	}
-	#tab-2-content .tab-2-content-top{
-		display:block;
-		text-align:center;
-	}
-	#tab-2-content .tab-2-content-bottom{
-		margin-top:2rem;
-		display:grid;
-		grid-template-columns:1fr;
-		grid-gap:2rem;
-		text-align:center
-	}
+#tab-1-content .tab-1-content-inner{
+	grid-template-columns:1fr;
+	text-align:center;
+}
+
+#tab-2-content .tab-2-content-top{
+	display:block;
+	text-align:center;
+}
+
+#tab-2-content .tab-2-content-bottom{
+	margin-top:2rem;
+	display:grid;
+	grid-template-columns:1fr;
+	grid-gap:2rem;
+	text-align:center
+}
+
 }
