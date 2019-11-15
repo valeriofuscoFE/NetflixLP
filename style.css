@@ -366,7 +366,7 @@ p{
 		
 		box-shadow:inset 80px 80px 250px #000000,inset -80px -80px 250px #000000;
 	}
-	#tab-1-content .tab-1content-inner{
+	#tab-1-content .tab-1-content-inner{
 		grid-template-columns:1fr;
 		text-align:center;	
 	}
